@@ -1,0 +1,8 @@
+{
+    "cards":[
+        {"title":"Junior Java Developer","sub":"PickSaaS","location":"Wrclaw, Polska","lastTime":"2 hours ago","description":"I am currently looking for a Java Developer, Project for public Sector Location: Wroclaw (during the pandemic remote work)","plan":"$ up to PLN 550 net / MD B2B"},
+        {"title":"Junior Project Manager","sub":"Frontkom","location":"Lublin, Polska","lastTime":"3 hours ago","description":"Join us in the Lublin office to build innovative long-term projects, Exciting international clients and partners and a work environment focused on learning and growth awaits you!","plan":""},
+        {"title":"Junior Project Manager","sub":"Frontkom","location":"Lublin, Polska","lastTime":"1 day ago","description":"I am currently looking for a Java Developer, Project for public Sector Location: Wroclaw (during the pandemic remote work)","plan":"$ up to PLN 550 net / MD B2B"}
+    ],
+    "companies":["GrandParade","Seargin","DEX Ventures","NBC","SVT SP Zoo","DG Tech","PickSaaS","BlackRose","FrontKom"]
+}
